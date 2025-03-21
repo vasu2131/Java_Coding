@@ -1,4 +1,4 @@
-package Supriya.Strings;
+package vasanth.Strings;
 import java.util.Scanner;
 public class SubString1 {
 	public static void main(String[] args) {	
